@@ -1,2 +1,2 @@
-# MonkeyCoin
-MonkeyCoin binary repository 
+# Monkey Token
+Monkey Token binary repository 
